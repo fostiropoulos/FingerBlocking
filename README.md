@@ -2,7 +2,7 @@
 
 Exploring computationally efficient methods to detect whether the camera is blocked by a finger. Such detection mechanisms can be useful in use with mobile devices. Different approaches are explored:
 
-## [Notebook](EDA-Camera-Blocking-CV.ipynb)
+### [Notebook](EDA-Camera-Blocking-CV.ipynb)
 
 ## Results
 
